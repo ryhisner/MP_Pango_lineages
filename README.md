@@ -1,0 +1,1 @@
+The Pango files here are spreadsheets that list the number of EPCI sequences in which each mutation pattern (MP) for each Pango lineage and the unaliased version of each Pango lineage's name. The names of the different MPs are described in the paper. TWO abbreviations used here are: 1) CWW = Cryptic Wastewater MP     2) BAL = Bronchoalveolar Lavage-associated MP
